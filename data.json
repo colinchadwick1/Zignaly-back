@@ -1,0 +1,75 @@
+[{
+    "id": "1",
+    "name": "iPhone 7",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=828/https://d1eh9yux7w8iql.cloudfront.net/product_images/15023_058cc2ff-d05c-4316-a88a-c7a62b5ed065.jpg",
+    "description": "The iPhone 7 and iPhone 7 Plus are smartphones designed, developed, and marketed by Apple Inc. They are the tenth generation of the iPhone. They were announced on September 7, 2016, at the Bill Graham Civic Auditorium in San Francisco by Apple CEO Tim Cook, and were released on September 16, 2016, succeeding the iPhone 6S and iPhone 6S Plus as the flagship devices in the iPhone series. ",
+    "color": "black",
+    "price": 106,
+    "memory": "256gb"
+},
+{
+    "id": "2",
+    "name": "Samsung Galaxy s7",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=828/https://d1eh9yux7w8iql.cloudfront.net/product_images/6516_67963b83-62d7-4985-b9f4-08b2d0593118.jpg",
+    "description": "The Samsung Galaxy S7, Samsung Galaxy S7 Edge and Samsung Galaxy S7 Active are Android-based smartphones manufactured, released and marketed by Samsung Electronics. The S7 series serves as the successor to the Galaxy S6, S6 Edge, S6 Edge+ and S6 Active released in 2015. The S7 and S7 Edge were officially unveiled on 21 February 2016 during a Samsung press conference at Mobile World Congress, with a European and North American release on 11 March 2016.",
+    "color": "black",
+    "price": 260,
+    "memory": "32gb"
+},
+{
+    "id": "3",
+    "name": "iPhone 10",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=2048/https://d1eh9yux7w8iql.cloudfront.net/product_images/36836_614ca137-616f-457d-b12f-739ed8c2bafa.jpg",
+    "description": "The iPhone X is a smartphone designed, developed and marketed by Apple Inc. The 11th generation of the iPhone, it was available to pre-order on October 27, 2017, and was released on November 3, 2017.",
+    "color": "Silver",
+    "price": 449.99,
+    "memory": "256gb"
+},
+{
+    "id": "4",
+    "name": "Galaxy s10 5G",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=828/https://d1eh9yux7w8iql.cloudfront.net/product_images/304612_d573a27e-4557-43ad-8f34-b67f7193ebd6.jpg",
+    "description": "The Samsung Galaxy S10 is a line of Android-based smartphones manufactured, released and marketed by Samsung Electronics as part of the Samsung Galaxy S series. The Galaxy S10 series is a celebratory series of the 10th anniversary of the Samsung Galaxy S flagship line, its top line of phones next to the Note models. ",
+    "color": "silver",
+    "price": 319,
+    "memory": "512gb"
+},
+{
+    "id": "5",
+    "name": "Oppo Find x2 Pro",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=828/https://d1eh9yux7w8iql.cloudfront.net/product_images/363514_0558d03e-5436-427b-88a4-cc56033b7ffe.jpg",
+    "description": "The phone comes with a 6.70-inch touchscreen display with a resolution of 1440x3168 pixels. Oppo Find X2 Pro is powered by a 2.84GHz octa-core Qualcomm Snapdragon 865 processor. It comes with 12GB of RAM. The Oppo Find X2 Pro runs Android 10 and is powered by a 4260mAh non-removable battery.",
+    "color": "black",
+    "price": 465,
+    "memory": "512gb"
+},
+{
+    "id": "6",
+    "name": "iPhone 12",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/None_bee2a9a9-d62c-4a86-88ed-525f8c1d6071.jpg",
+    "description": "The phone comes with a 6.70-inch touchscreen display with a resolution of 1440x3168 pixels. Oppo Find X2 Pro is powered by a 2.84GHz octa-core Qualcomm Snapdragon 865 processor. It comes with 12GB of RAM. The Oppo Find X2 Pro runs Android 10 and is powered by a 4260mAh non-removable battery.",
+    "color": "red",
+    "price": 574,
+    "memory": "64gb"
+},
+{
+    "id": "7",
+    "name": "Huawei P30 Lite",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=2048/https://d1eh9yux7w8iql.cloudfront.net/product_images/261306_34b69274-0ae0-43c7-bffa-052dea1e919d.jpg",
+    "description": "Huawei P30 Lite mobile was launched in March 2019. The phone comes with a 6.15-inch touchscreen display with a resolution of 1080x2312 pixels at a pixel density of 415 pixels per inch (ppi). It comes with 4GB of RAM. The Huawei P30 Lite runs Android 9 Pie and is powered by a 3340mAh battery.",
+    "color": "black",
+    "price": 207,
+    "memory": "128gb"
+
+},
+{
+    "id": "8",
+    "name": "Galaxy S10 5G",
+    "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=2048/https://d1eh9yux7w8iql.cloudfront.net/product_images/304612_0eac2b51-cb19-4389-b205-d277aeafc1bb.jpg",
+    "description": "Samsung Galaxy S10 5G mobile was launched in February 2019. The phone comes with a 6.70-inch touchscreen display at a pixel density of 505 pixels per inch (ppi) and an aspect ratio of 19:9. Samsung Galaxy S10 5G is powered by a 1.9GHz octa-core Samsung Exynos 9820 processor.",
+    "color": "silver",
+    "price": 319,
+    "memory": "256gb"
+}
+]
+
